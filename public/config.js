@@ -30,8 +30,12 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
-      url: 'https://lenotfound.blog.luogu.org'
+      text: 'WordPress-version',
+      url: 'https://modcxblog.cn/'
+    },
+    {
+      text: 'Hexo-version'.
+      url: 'https://hexo.modcxblog.cn/'
     },
     {
       text: 'GitHub',
