@@ -6,7 +6,7 @@ const Footer = () => {
     <div id="footer">
       <div className="container">
         <p>基于 <Link to="https://uptimerobot.com/" text="UptimeRobot" /> 接口制作，检测频率 5 分钟</p>
-        <p>&copy; 2020-2021 <Link to="https://tjys.now.sh/" text="TJYS" /></p>
+        <p>&copy; 2022-2022 <Link to="https://www.luogu.com.cn/user/493896" text="ModCx" /></p>
       </div>
     </div>
   );
